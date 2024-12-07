@@ -1,3 +1,4 @@
+/*eslint-disable react/no-unescaped-entities */
 import "../style/Education.css"
 function Education(){
     return(

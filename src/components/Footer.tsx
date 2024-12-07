@@ -1,3 +1,4 @@
+/*eslint-disable react/no-unescaped-entities */
 import "../style/Footer.css";
 function Footer(){
     return(

@@ -1,3 +1,4 @@
+/*eslint-disable react/no-unescaped-entities */
 import "../style/Contact.css";
 function Contact(){
     return(

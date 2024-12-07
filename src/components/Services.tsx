@@ -1,3 +1,4 @@
+/*eslint-disable react/no-unescaped-entities */
 import "../style/Services.css";
 import { FaLaptopCode } from "react-icons/fa6";
 import { AiOutlineSound } from "react-icons/ai";

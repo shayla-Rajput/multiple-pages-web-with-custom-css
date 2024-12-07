@@ -1,3 +1,4 @@
+/*eslint-disable react/no-unescaped-entities */
 import "../style/Header.css";
 import Link from "next/link"
 function Header(){
